@@ -197,7 +197,7 @@ your-app/
 
 ## How AWS Lambda SnapStart eliminates cold starts
 
-Traditional Spring Boot on Lambda: every cold start re-initializes the JVM from scratch — loading classes, starting the Spring context, wiring beans. This can take 5–15 seconds.
+Traditional Spring Boot on Lambda: every cold start re-initializes the JVM from scratch — loading classes, starting the Spring context, wiring beans.
 
 With **AWS Lambda SnapStart Spring Boot**:
 
