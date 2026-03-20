@@ -251,9 +251,9 @@ Poja is operated by **Poja SAS**, a French company registered at 6 Rue Paul Lang
 
 ## Get started
 
-**[Try Poja for free → console.poja.io](https://console.poja.io/login)**
+**[Try Poja → console.poja.io](https://console.poja.io/login)**
 
-> Free tier: €2 monthly credit, forever, for every customer. No credit card required to start.
+> Free tier: €2 monthly credit, forever, for every customer.
 
 ---
 
