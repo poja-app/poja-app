@@ -3,7 +3,7 @@
 **Deploy Spring Boot without DevOps.** Push to GitHub. Your app goes live on AWS in under 10 minutes — no infrastructure configuration, no cold starts, no surprises on your bill.
 
 [![poja.io](https://img.shields.io/badge/website-poja.io-black)](https://poja.io)
-[![docs](https://img.shields.io/badge/docs-docs.poja.io-blue)](https://docs.poja.io/docs)
+[![docs](https://img.shields.io/badge/docs-docs.poja.io-blue)](https://docs.poja.io)
 [![console](https://img.shields.io/badge/console-console.poja.io-green)](https://console.poja.io/login)
 [![discord](https://img.shields.io/badge/community-Discord-5865F2)](https://discord.gg/yU3s7gyHPv)
 
